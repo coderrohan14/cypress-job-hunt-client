@@ -6,7 +6,7 @@ import "./App.css"; // Make sure to create this CSS file
 
 function App() {
   const server_url =
-    "https://c9b9-2601-647-cb00-4100-7d23-164b-6c3f-f4ae.ngrok-free.app";
+    "https://508d-2601-647-cb00-4100-a544-b86a-386e-25e7.ngrok-free.app";
   const [users, setUsers] = useState([]);
   const [selectedUsers, setSelectedUsers] = useState([]);
   const [selectAll, setSelectAll] = useState(false);
