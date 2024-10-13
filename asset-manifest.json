@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cypress-job-hunt-client/static/css/main.de350f5e.css",
-    "main.js": "/cypress-job-hunt-client/static/js/main.f65caa91.js",
+    "main.js": "/cypress-job-hunt-client/static/js/main.53d0acc3.js",
     "index.html": "/cypress-job-hunt-client/index.html",
     "main.de350f5e.css.map": "/cypress-job-hunt-client/static/css/main.de350f5e.css.map",
-    "main.f65caa91.js.map": "/cypress-job-hunt-client/static/js/main.f65caa91.js.map"
+    "main.53d0acc3.js.map": "/cypress-job-hunt-client/static/js/main.53d0acc3.js.map"
   },
   "entrypoints": [
     "static/css/main.de350f5e.css",
-    "static/js/main.f65caa91.js"
+    "static/js/main.53d0acc3.js"
   ]
 }
